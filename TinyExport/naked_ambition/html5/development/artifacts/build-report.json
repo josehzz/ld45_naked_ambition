@@ -1,0 +1,107 @@
+﻿{
+    "Item": {
+        "Name": "Project",
+        "Size": 0,
+        "CompressedSize": 0
+    },
+    "Children": [{
+        "Item": {
+            "Name": "Runtime",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "TinyExport/naked_ambition/html5/development/build/runtime.js",
+                "Size": 5664364,
+                "CompressedSize": 700818
+            }
+        }]
+    }, {
+        "Item": {
+            "Name": "Assets",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "JavaScript",
+                "Size": 1915,
+                "CompressedSize": 0
+            }
+        }, {
+            "Item": {
+                "Name": "Assets/naked_ambition/Textures/player_1.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "05a3bd22f5308de4783756d7bb46452f", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/naked_ambition/html5/development/artifacts/assets/player_1.jpg",
+                    "Size": 912,
+                    "CompressedSize": 644,
+                    "Object": { "$TypeId": 10, "Guid": "05a3bd22f5308de4783756d7bb46452f", "FileId": 2800000, "Type": 3 }
+                }
+            }, {
+                "Item": {
+                    "Name": "TinyExport/naked_ambition/html5/development/artifacts/assets/player_1_a.png",
+                    "Size": 168,
+                    "CompressedSize": 165,
+                    "Object": { "$TypeId": 10, "Guid": "05a3bd22f5308de4783756d7bb46452f", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }]
+    }, {
+        "Item": {
+            "Name": "Code",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "TinyExport/naked_ambition/html5/development/build/entities.js",
+                "Size": 2528,
+                "CompressedSize": 837
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "Bootstrap",
+                    "Size": 2442,
+                    "CompressedSize": 763
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "TinyExport/naked_ambition/html5/development/build/bindings.js",
+                "Size": 72365,
+                "CompressedSize": 5610
+            }
+        }, {
+            "Item": {
+                "Name": "Linked Code Files",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/naked_ambition/html5/development/artifacts/scripts/tsc-emit.js",
+                    "Size": 3168,
+                    "CompressedSize": 927
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "TinyExport/naked_ambition/html5/development/build/main.js",
+                "Size": 2078,
+                "CompressedSize": 744
+            }
+        }, {
+            "Item": {
+                "Name": "TinyExport/naked_ambition/html5/development/build/wsclient.js",
+                "Size": 9651,
+                "CompressedSize": 2635
+            }
+        }]
+    }]
+}
